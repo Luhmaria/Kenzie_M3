@@ -1,0 +1,13 @@
+main {
+  margin-block: 2rem;
+}
+
+@media (min-width: 1024px) {
+  main {
+    display: flex;
+    gap: 60px;
+  }
+  .formSection {
+    width: 22.1875rem;
+  }
+}

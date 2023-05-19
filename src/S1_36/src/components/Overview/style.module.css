@@ -1,0 +1,12 @@
+.overView {
+  margin-block: 2rem;
+}
+.overViewList {
+  margin-block: 1.5rem;
+}
+@media (min-width: 1024px) {
+  .overView {
+    margin-block: 0;
+    width: 650px;
+  }
+}

@@ -1,0 +1,48 @@
+.registeredCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 1rem;
+  height: 156px;
+  color: var(--grey4);
+  position: relative;
+}
+.registeredCard:hover {
+  background-color: #ffffff;
+  box-shadow: 0px 4px 42px -12px #00000040;
+}
+.income {
+  border-left: 0.25rem solid var(--brandColor3);
+}
+.expense {
+  border-left: 0.25rem solid var(--grey2);
+}
+.income,
+.expense {
+  border-radius: var(--secondRadius);
+  background-color: var(--grey1);
+}
+.deleteButton {
+  background-color: var(--grey2);
+  border-radius: 0.125rem;
+  height: 1.1875rem;
+  padding: 0.1rem 0.5rem;
+  color: var(--grey4);
+  width: 48px;
+}
+
+@media (min-width: 1024px) {
+  .registeredCard {
+    height: 5.4375rem;
+  }
+  .deleteButton {
+    position: absolute;
+    right: 20px;
+    top: 50px;
+  }
+  .registeredCardValue {
+    position: absolute;
+    right: 20px;
+    top: 30px;
+  }
+}

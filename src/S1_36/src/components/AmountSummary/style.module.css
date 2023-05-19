@@ -1,0 +1,19 @@
+.totalAmount {
+  height: 5.625rem;
+  margin-block: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 1.5rem 1rem;
+  border: 0.0625rem solid var(--grey2);
+}
+.totalAmount > small {
+  color: var(--grey4);
+}
+.totalAmount > div {
+  display: flex;
+  justify-content: space-between;
+}
+.pink {
+  color: var(--brandColor1);
+}
