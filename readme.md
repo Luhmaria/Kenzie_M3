@@ -36,10 +36,10 @@ Project goal: API consumption with axios and styling components with Styled Comp
 
 Project goal: change page using react router dom, validate forms with zod and submit them with react hook form, stop prop drilling by using context API.
 
-<b>You can register and login. You can add/remove products to your cart and search for a specific product on shop page. You cannot access registration and login routes while logged in. You will be logged in and automatically redirected to the shop page if you do not log out and access the application again.</b>
+<b>You can register and login. You can add/remove tecnologies of your profile. You cannot access registration and login routes while logged in. You will be logged in and automatically redirected to the shop page if you do not log out and access the application again.</b>
 
 <a href="./src/S3_14"> <img src="./src/assets/images/code_button.png"> </a> &nbsp; &nbsp;
-<a href="https://kenzie-academy-brasil-developers-react-entrega-hamburg-luhmaria.vercel.app/"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
+<a href="https://kenzie-academy-brasil-developers-react-entrega-kenzie-luhmaria.vercel.app/login"> <img src="./src/assets/images/project_button.png"> </a> &nbsp; &nbsp;
 
 ---
 
