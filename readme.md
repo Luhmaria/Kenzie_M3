@@ -45,7 +45,7 @@ Project goal: change page using react router dom, validate forms with zod and su
 
 ## Sprint 5 - [ Typescript ]
 
-### Project S5_18 - Kenzie Hub
+### Project S5_18 - Kenzie Burguer V2
 
 Project goal: apply all previous knowledge now using typescript.
 
